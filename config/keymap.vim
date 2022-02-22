@@ -46,7 +46,7 @@ nmap Q <nop>
 noremap Q q
 
 " jk表示esc
-inoremap jk <esc>
+inoremap kj <esc>
 
 nmap << <<_
 nmap >> >>_

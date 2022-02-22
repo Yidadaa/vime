@@ -36,6 +36,11 @@
     "diagnostic.infoSign": "●",
     "diagnostic.hintSign": "●",
     "diagnostic.displayByAle": false,
-    "diagnostic.maxWindowHeight": 10,
-    "languageserver": {}
+    "languageserver": {},
+    "coc.preferences.formatOnSaveFiletypes": [
+        "css",
+        "markdown",
+        "json",
+        "cpp"
+    ]
 }
