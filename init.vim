@@ -34,3 +34,5 @@ for [plugName, _] in items(g:plugs)
         call s:source_config(plugName)
     endif
 endfor
+
+set guifont=JetBrainsMono\ Nerd\ Font:h14
